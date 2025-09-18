@@ -1,3 +1,9 @@
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
 # 📂 Advanced File Organizer (GUI + CLI)
 
 > **Made with ❤️ by Manav** – a 17-year-old passionate 12th-grade developer who loves solving everyday problems for developers.  
